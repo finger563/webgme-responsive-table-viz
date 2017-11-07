@@ -1,0 +1,8 @@
+[
+  {
+    "id": "ResponsiveTable",
+    "title": "ResponsiveTable",
+    "panel": "panels/ResponsiveTable/ResponsiveTablePanel",
+    "DEBUG_ONLY": false
+  }
+]

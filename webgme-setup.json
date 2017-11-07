@@ -1,0 +1,16 @@
+{
+  "components": {
+    "visualizers": {
+      "ResponsiveTable": {
+        "src": "panels/ResponsiveTable/ResponsiveTablePanel",
+        "title": "ResponsiveTable",
+        "panel": "src/visualizers/panels/ResponsiveTable",
+        "secondary": false,
+        "widget": "src/visualizers/widgets/ResponsiveTable"
+      }
+    }
+  },
+  "dependencies": {
+    "visualizers": {}
+  }
+}
